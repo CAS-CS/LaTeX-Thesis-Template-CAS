@@ -1,4 +1,4 @@
-\ProvidesClass{thesisMNNIT}[2021/12/19 crated by Prateek Raj Gautam (prateekrajgautam@gmail.com)]
+\ProvidesClass{thesis}[2021/12/19 created by Dr. Prateek Raj Gautam (prateekrajgautam@gmail.com)]
 \NeedsTeXFormat{LaTeX2e}[1994/06/01]
 \newif\ifCLASSOPTIONFinal\CLASSOPTIONFinaltrue
 \newif\ifCLASSOPTIONSynopsis\CLASSOPTIONSynopsisfalse
@@ -466,7 +466,7 @@ and not keyword={myPublications}
 \newcommand{\printHelp}{
 
 
-	\chapter{How To Use thesisMNNIT class}
+	\chapter{How To Use thesis class}
 	\section{REMOVE After Finalizing}
 	\emph{to remove this chapter remove comment \textbackslash printHelp from the template file}
 
@@ -509,7 +509,7 @@ and not keyword={myPublications}
 here \$1 \$2 \$3 requires in arguments \$filename, \$basename and \$synctexoptions
 
 %\lstinputlisting{compile.sh}
-	\section{\textbackslash documentclass [ Final or Draft ]\{ thesisMNNIT \} }
+	\section{\textbackslash documentclass [ Final or Draft ]\{ thesis \} }
 
 	You can use Draft option to compile chapter and bib only, Final option will compile all front matter and backmatter
 
@@ -563,8 +563,8 @@ here \$1 \$2 \$3 requires in arguments \$filename, \$basename and \$synctexoptio
 \newcommand{\ece}{Electronics and Communication Engineering}
 \newcommand{\eced}{Electronics and Communication Engineering Department}
 \newcommand{\dept}{Department of Electronics and Communication Engineering}
-\newcommand{\institute}{Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India 211004}
-\newcommand{\inst}{Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India 211004}
+\newcommand{\institute}{Centre for Advanced Studies\\Dr. A.P.J. Abdul Kalam Technical University, Lucknow, India 226031}
+\newcommand{\inst}{Centre for Advanced Studies, Lucknow, India 211004}
 \newcommand{\phd}{Doctor of Philosophy}
 \newcommand{\registration}[1]{#1}
 
