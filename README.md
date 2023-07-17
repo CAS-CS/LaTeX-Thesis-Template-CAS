@@ -1,4 +1,4 @@
-# LaTeX-Thesis-Template-
+# LaTeX-Thesis-Template-MNNIT
 
 LaTeX Generic Thesis Template Motilal Nehru National Institute of Technology Allahabad
 
