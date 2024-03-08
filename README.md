@@ -76,3 +76,7 @@ $basename
 
 $synctexoption
 ![](./How%20to%20Configure%20Texworks%20option%20PdfLaTeX%2BMakeIndex%2BBibTex%20compile/step2.png)
+
+
+# Resources
+- [https://aktu.ac.in/thesis-preparation.html](https://aktu.ac.in/thesis-preparation.html)
